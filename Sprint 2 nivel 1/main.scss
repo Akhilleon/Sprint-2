@@ -1,0 +1,10 @@
+$primary: #5265E1;
+$secondary: #FA5959;
+
+$accordion-icon-color: $primary;
+$accordion-button-active-bg: white;
+$accordion-button-focus-box-shadow: white;
+$navbar-light-toggler-border-color: white;
+$navbar-toggler-focus-width: 0px;
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss"
